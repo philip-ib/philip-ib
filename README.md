@@ -9,7 +9,7 @@ Hobi: Gitar, mendengarkan musik, sepak bola
 ## 🙍🏻‍♂️ About Me
 😀 saya suka dengan perkembangan teknologi dan saya suka belajar hal-hal baru.  
 📚 saat ini saya sedang mempelajari:
-- 🏃🏻‍♂️ Web Development (**_Front-end_|Back-end**)  
+- 🏃🏻‍♂️ Web Development (**_Front-end_ & Back-end**)  
 - 🏃 Mobile Development  
 - 🔜 Desktop Development
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
