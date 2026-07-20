@@ -9,9 +9,9 @@ Hobi: Gitar, mendengarkan musik, sepak bola
 ## 🙍🏻‍♂️ About Me
 😀 saya suka dengan perkembangan teknologi dan saya suka belajar hal-hal baru.  
 📚 saat ini saya sedang mempelajari:
-- 🏃🏻‍♂️ website developer (**_Front-end_|Back-end**)  
-- 🏃 android developer  
-- 🔜 desktop devloper
+- 🏃🏻‍♂️ Web Development (**_Front-end_|Back-end**)  
+- 🏃 Mobile Development  
+- 🔜 Desktop Development
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%" height="3%"> Languages
@@ -25,7 +25,6 @@ Hobi: Gitar, mendengarkan musik, sepak bola
 ## 🛠 Tools
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/>
 </p>
 
